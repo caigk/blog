@@ -4,12 +4,12 @@
 
 # Site
 title: caigk
-subtitle: ''
+subtitle: "caigk's blog"
 description: '蔡刚坤的博客'
-keywords:
-author: caigk
-language: cn
-timezone: ''
+keywords: 'AI'
+author: '蔡刚坤'
+language: 'ZH'
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
